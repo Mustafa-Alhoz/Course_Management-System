@@ -50,6 +50,8 @@ To access the admin panel, click the hidden button in the bottom right corner of
 ![admin_button](https://github.com/user-attachments/assets/33f1d7ce-a84a-4d75-94af-af3f6777444c)
 
 
+Then you can add a student account, a lecturer account, and some courses to test the system.
+
 
 
 
