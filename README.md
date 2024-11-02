@@ -1,4 +1,4 @@
-# Course_Management-System
+# Course_Management_System
 
 
 This Course Management System is a desktop application developed using Python's Tkinter library, designed to streamline the management of courses at Izmir Institute of Technology (IZTECH).
